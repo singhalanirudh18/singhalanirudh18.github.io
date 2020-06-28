@@ -4,9 +4,9 @@ general_email: singhalanirudh18@gmail.com
 academic_email: 16D070032@iitb.ac.in
 
 description: > # this means to ignore newlines until "baseurl:"
-  Give a brief description of yourself, and maybe your passion/interests. It is displayed in search results.
+  Final Year Dual Degree (B.Tech + M.Tech) student at the Department of Electrical Engineering, IIT Bombay. Passionate about research in Multiple Armed Bandits and Computer Vision.
 
-#baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 
 url: "https://singhalanirudh18.github.io" # the base hostname & protocol for your site
 
