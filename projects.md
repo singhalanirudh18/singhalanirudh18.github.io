@@ -4,16 +4,19 @@ permalink: /projects/
 title: Projects
 ---
 
-Here is a non-exhaustive list of my non-research projects. My research work can be found <a href="/research">here</a>. You can also check out my Github profile <a href="">here</a> for a complete list of my projects.
+Here is a non-exhaustive list of my non-research projects. My research work can be found <a href="/research">here</a>.
 
 <ul>
 	<li>
-		<b>Project title #1</b>: Give a brief description of your first project here. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br>
-		<a href=""><div class="color-button">paper</div></a><a href="project_1.pdf"><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
+		<b>Digitally Programmable Computer</b>: Designed and implemented a hybrid system of Analog and Digital modules on two layered Printed Circuit Board to solve non-linear differential equations in upto 8 variables.<br>
+		<a href="DPAC.pdf"><div class="color-button">report</div></a>
 	</li><br>
 	<li>
-		<b>Project title #2</b>: Give a brief description of your second project here. You can link the relevant research paper(s), report, code repository and any other detail(s) by editing <i>projects.md</i> file<br>
-		<a href=""><div class="color-button">paper</div></a><a href="project_1.pdf"><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
+		<b>IITB-Proc Processor Design</b>: Designed Superscalar, Multicycle and Pipelined Processors using VHDL from scratch and synthesized the same on Altera DE0 Nano FPGA<br>
+	</li><br>
+	<li>
+		<b>Lazy Lock | Automated Lock</b>: Designed and implemented an automated door unlocking mechanism which unlocks by gesture detection, knock pattern and remotely from an android application<br>
+		<a href="https://github.com/singhalanirudh18/itsp"><div class="color-button">code</div></a>
 	</li><br>
 
 </ul>
