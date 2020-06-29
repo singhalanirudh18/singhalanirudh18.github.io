@@ -4,38 +4,28 @@ permalink: /experience/
 title: Experience
 ---
 
-<b>Research Interests</b> : Machine Learnig, Computer Vision, Multi-Armed Bandits, Markov Decision Processes, Wireless Communication 
+During my short professional journey, I got the opportunity to acquire diverse experience in the fields of research, product and teaching. I started my journey as a researcher by interning in Media and Data Science Research Lab, Adobe followed by various <a href="/research">research projects</a>. I had the opportunity to work closely with a growing startup <a href="https://okcredit.in/">OkCredit</a> as a summer intern which helped me get insights into entrepreneurship culture in India. During my time as a Teaching Assistant, I taught students from different disciplines.
 
-<h2>Publications</h2>
+<h2>Work Experience</h2>
 <ul>
 	<li>
-		<b>Towards a Unified Framework for Visual Compatibility Prediction</b><br>
-		<i>Anirudh Singhal, Ayush Chopra, Kumar Ayush, Utkarsh Patel, K. Balaji</i><br>
-		WACV, 2020<br>
-		<a href="http://openaccess.thecvf.com/content_WACV_2020/html/Singhal_Towards_a_Unified_Framework_for_Visual_Compatibility_Prediction_WACV_2020_paper.html"><div class="color-button">pdf</div></a>
+		<b>Research Intern, Adobe</b><br>
+		May'19 - July'19<br>
+		<i>Worked on applications of Deep Learning in Fashion Industry. My work in Adobe led to a Publication and a Patent details of which can be viewed <a href="/research">here.</a></i><br>
+	</li><br>
+	<li>
+		<b>Summer Intern, OkCredit</b><br>
+		May'18 - July'18<br>
+		<i>Designed infrastructure to collect user interactions from the mobile application to provide in-house <a href="https://en.wikipedia.org/wiki/Mobile_web_analytics">App Analytics</a> service.</i><br>
 	</li><br>
 </ul>
 
-<h2>Patents</h2>
+<h2>Teaching</h2>
 <ul>
 	<li>
-		<b>Deep Learning Based Visual Compatibility Prediction For Bundle Reccomendations</b> (Filed in US Patent Office on May'20)<br>
-	</li><br>
-</ul>
-
-<h2>Research Projects</h2>
-<ul>
-	<li>
-		<b>Adaptive Mode Estimation of Continuous Distribution</b><br>
-		Jan'20-Present<br>
-		<i>Working with <a href="https://sites.google.com/site/nikhilkaram/">Prof. Nikhil Karamchandani</a> on using Multi-Armed Bandit Algorithms to estimate mode of a high-dimensional dataset</i><br>
-		<a href="Continuous_Mode.pdf"><div class="color-button">report</div></a>
-	</li><br>
-	<li>
-		<b>Reduced Feedback Techniques for Kerdock based MIMO-OFDM Precoders</b><br>
-		Jan'20-Present<br>
-		<i>Working with <a href="https://www.ee.iitb.ac.in/~akumar/">Prof. Kumar Appiah</a> on reducing the feedback requirements for <a href="https://ieeexplore.ieee.org/document/4813254">Kerdock based MIMO-OFDM precoders</a></i><br>
-		<a href="MIMO_Kerdock.pdf"><div class="color-button">report</div></a>
+		<b>Teaching Assistant, Differential Equations</b><br>
+		Jan'19 - April'19<br>
+		<i>Responsible for grading tests and conducting weekly tutorials for a class consisting of 50+ students</i><br>
 	</li><br>
 </ul>
 

@@ -4,33 +4,32 @@ title: Key Courses Undertaken
 permalink: /miscellany/courses/
 ---
 
-<h2>At &lt;your university name&gt;</h2>
+<h2>At IIT Bombay</h2>
 
-<h3>Department 1</h3>
+<h3>Computer Science</h3>
 
-<a href="">CS335</a>: Arificial Intelligence and Machine Learning* <sup>&dagger;</sup>
-<b>&nbsp;&middot;&nbsp;</b> <a href="">CS726</a>: Advanced Machine Learning*
-<b>&nbsp;&middot;&nbsp;</b> <a href="">CS302</a>: Implementation of Programming Languages* <sup>&dagger;</sup>
-<b>&nbsp;&middot;&nbsp;</b> <a href="">CS310</a>: Automata Theory*
-<b>&nbsp;&middot;&nbsp;</b> <a href="">CS663</a>: Fundamentals of Digital Image Processing
-<b>&nbsp;&middot;&nbsp;</b> <a href="">CS475</a>: Computer Graphics
+<a href="https://www.cse.iitb.ac.in/~sunita/cs726/">CS726</a>: Advanced Machine Learning
+<b>&nbsp;&middot;&nbsp;</b> <a href="https://www.cse.iitb.ac.in/~ajitvr/CS663_Fall2018/">CS663</a>: Fundamentals of Digital Image Processing
+<b>&nbsp;&middot;&nbsp;</b> <a href="https://www.cse.iitb.ac.in/~mythili/teaching/cs347_autumn2016/index.html">CS347</a>: Operating Systems 
 
-<h3>Department 2</h3>
-<a href="">SI404</a>: Applied Stochastic Processes*
-<b>&nbsp;&middot;&nbsp;</b> <a href="">SI402</a>: Statistical Inference
-<b>&nbsp;&middot;&nbsp;</b> <a href="">SI417</a>: Introduction to Probability Theory
+<h3>Electrical Engineering</h3>
+<a href="https://www.ee.iitb.ac.in/web/academics/courses/EE338">EE338</a>: Digital Signal Processing
+<b>&nbsp;&middot;&nbsp;</b> <a href="https://www.ee.iitb.ac.in/web/academics/courses/EE328">EE328</a>: Digital Communications
+<b>&nbsp;&middot;&nbsp;</b> <a href="https://www.ee.iitb.ac.in/web/academics/courses/EE309">EE309</a>: Microprocessors
 
-<h3>Department 3</h3>
-<a href="">MA214</a>: Introduction to Numerical Analysis*
-<b>&nbsp;&middot;&nbsp;</b> <a href="">MA106</a>: Linear Algebra
-<b>&nbsp;&middot;&nbsp;</b> <a href="">MA108</a>: Differential Equations
-<b>&nbsp;&middot;&nbsp;</b> <a href="">MA105</a>: Calculus
+<h3>Mathematics and Statics</h3>
+<a href="https://www.ee.iitb.ac.in/web/academics/courses/EE621">EE621</a>: Markov Chains and Queuing Systems
+<b>&nbsp;&middot;&nbsp;</b> <a href="https://www.ee.iitb.ac.in/web/academics/courses/EE636">EE636</a>: Matrix Computations
+<b>&nbsp;&middot;&nbsp;</b> <a href="https://www.ee.iitb.ac.in/~bsraj/courses/ee325/">EE325</a>: Probability and Random Processes
+<b>&nbsp;&middot;&nbsp;</b> <a href="https://dampeeiitb.wordpress.com/ee223-data-analysis-and-interpretation/">EE223</a>: Data Analysis and Interpretation
 
 
-<h2>MOOC</h2>
-<a href="http://cs231n.stanford.edu/">CS231n</a>: Convolutional Neural Networks for Visual Recognition
-<b>&nbsp;&middot;&nbsp;</b> <a href="http://cs224d.stanford.edu/">CS224d</a>: Deep Learning for Natural Language Processing
+<h2>At Technical University of Denmark</h2>
+<a href="http://www2.imm.dtu.dk/courses/02450/">02450</a>: Introduction to Machine Learning and Data Mining
+<b>&nbsp;&middot;&nbsp;</b> <a href="https://kurser.dtu.dk/course/2019-2020/34330">34330</a>: Introduction to Mobile Communication
+<b>&nbsp;&middot;&nbsp;</b> <a href="https://kurser.dtu.dk/course/2019-2020/22001">22001</a>: Acoustic Signal Processing
+<b>&nbsp;&middot;&nbsp;</b> <a href="https://kurser.dtu.dk/course/2019-2020/42104">42104</a>: Introduction to Financial Engineering
 
-<div align= "right">
+<!-- <div align= "right">
 	*<i>pursuing currently</i><br><sup>&dagger;</sup><i>accompanied by a separate lab course</i>
-</div>
+</div> -->
