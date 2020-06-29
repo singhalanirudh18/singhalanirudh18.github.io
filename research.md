@@ -19,7 +19,7 @@ title: Research
 <h2>Patents</h2>
 <ul>
 	<li>
-		<b>Deep Learning Based Visual Compatibility Prediction For Bundle Reccomendations</b>(Filed in US Patent Office in May,2020)<br>
+		<b>Deep Learning Based Visual Compatibility Prediction For Bundle Reccomendations</b> (Filed in US Patent Office on May'20)<br>
 	</li><br>
 </ul>
 
