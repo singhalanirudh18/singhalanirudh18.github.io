@@ -4,7 +4,7 @@ permalink: /research/
 title: Research
 ---
 
-<b>Research Interests</b> : Machine Learnig, Computer Vision, Multi-Armed Bandits, Markov Decision Processes, Wireless Communication 
+<b>Research Interests</b> : Machine Learning, Computer Vision, Multi-Armed Bandits, Markov Decision Processes, Wireless Communication 
 
 <h2>Publications</h2>
 <ul>
@@ -34,7 +34,7 @@ title: Research
 	<li>
 		<b>Reduced Feedback Techniques for Kerdock based MIMO-OFDM Precoders</b><br>
 		Jan'20-Present<br>
-		<i>Working with <a href="https://www.ee.iitb.ac.in/~akumar/">Prof. Kumar Appiah</a> on reducing the feedback requirements for <a href="https://ieeexplore.ieee.org/document/4813254">Kerdock based MIMO-OFDM precoders</a></i><br>
+		<i>Working with <a href="https://www.ee.iitb.ac.in/~akumar/">Prof. Kumar Appaiah</a> on reducing the feedback requirements for <a href="https://ieeexplore.ieee.org/document/4813254">Kerdock based MIMO-OFDM precoders</a></i><br>
 		<a href="MIMO_Kerdock.pdf"><div class="color-button">report</div></a>
 	</li><br>
 </ul>

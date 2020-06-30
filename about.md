@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/profile.jpg" caption="Watching FC Barcelona's match at Camp Nou, Barcelona" width=300 align="right" %}
+<!-- {% include image.html url="/images/profile.jpg" caption="Watching FC Barcelona's match at Camp Nou, Barcelona" width=300 align="right" %} -->
 
 My name is Anirudh Singhal, and I'm a final year undergraduate student at <a href="http://www.iitb.ac.in/">IIT Bombay</a> pursuing a <a href="http://www.iitb.ac.in/newacadhome/dualdegree.jsp">Dual Degree (B.Tech + M.Tech.)</a> in <a href="https://www.ee.iitb.ac.in/web/">Electrical Engineering</a> with specialization in <a href="https://www.ee.iitb.ac.in/~comgroup/">Communication and Signal Processing</a> and a minor in <a href="https://www.cse.iitb.ac.in/">Computer Science and Engineering</a>. My research interests includes <a href="https://en.wikipedia.org/wiki/Machine_learning">Machine Learning</a>, <a href="https://en.wikipedia.org/wiki/Computer_vision">Computer Vision</a>, <a href="https://en.wikipedia.org/wiki/Markov_decision_process#:~:text=In%20mathematics%2C%20a%20Markov%20decision,control%20of%20a%20decision%20maker.">Markov Decision Processes</a>, <a href="https://en.wikipedia.org/wiki/Wireless">Wireless Communication</a> and <a href="https://en.wikipedia.org/wiki/Multi-armed_bandit#:~:text=In%20probability%20theory%2C%20the%20multi,properties%20are%20only%20partially%20known">Multi-Armed Bandits</a>. Currently I'm working with <a href="https://sites.google.com/site/nikhilkaram/">Prof. Nikhil Karamchandani</a> on using Multi-Armed Bandits Algorithms to efficiently estimate the mode of a high-dimensional dataset with a underlying continous distribution using active sampling of dimensions.
 
