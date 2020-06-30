@@ -4,7 +4,7 @@ title: Travel
 permalink: /miscellany/travel/
 ---
 
-Have a look at various places that I have visted in various countries. 
+I'm an enthusiastic traveller and like to get out of my comfort zone. Have a look at various places that I have visted in multiple countries. 
 
 
 <h2>In Paris</h2>
@@ -47,6 +47,86 @@ Have a look at various places that I have visted in various countries.
 <dl class="wp-caption" style="max-width: 250px; display: inline-block; margin: 5px">
 	<dt><img class="" src="/images/Italy_5.jpeg" /></dt>
 	<dd>Roman Forum</dd>
+</dl>
+
+<h2>In Denmark</h2>
+
+<dl class="wp-caption" style="max-width: 300px; display: inline-block; margin: 5px">
+	<dt><img class="" src="/images/Denmark_1.jpg" /></dt>
+	<dd>First football match in Europe at Telia Parken, Copenhagen</dd>
+</dl>
+<dl class="wp-caption" style="max-width: 300px; display: inline-block; margin: 5px">
+	<dt><img class="" src="/images/Denmark_2.jpg" /></dt>
+	<dd>DTU, Lyngby</dd>
+</dl>
+<dl class="wp-caption" style="max-width: 300px; display: inline-block; margin: 5px">
+	<dt><img class="" src="/images/Denmark_3.jpg" /></dt>
+	<dd>Kronborg, Helsingør</dd>
+</dl>
+<dl class="wp-caption" style="max-width: 300px; display: inline-block; margin: 5px">
+	<dt><img class="" src="/images/Denmark_4.jpg" /></dt>
+	<dd>Helsingborg, Sweden</dd>
+</dl>
+<dl class="wp-caption" style="max-width: 300px; display: inline-block; margin: 5px">
+	<dt><img class="" src="/images/Denmark_5.jpeg" /></dt>
+	<dd>Halloween celebrations at Tivoli Gardens, Copenhagen</dd>
+</dl>
+<dl class="wp-caption" style="max-width: 180px; display: inline-block; margin: 5px">
+	<dt><img class="" src="/images/Denmark_7.jpeg" /></dt>
+	<dd>The Royal Theatre, Copenhagen</dd>
+</dl>
+
+<h2>In Spain</h2>
+
+<dl class="wp-caption" style="max-width: 300px; display: inline-block; margin: 5px">
+	<dt><img class="" src="/images/Spain_1.jpeg" /></dt>
+	<dd>Girona</dd>
+</dl>
+<dl class="wp-caption" style="max-width: 200px; display: inline-block; margin: 5px">
+	<dt><img class="" src="/images/Spain_2.jpeg" /></dt>
+	<dd>FC Barcelona Museum, Camp Nou</dd>
+</dl>
+<dl class="wp-caption" style="max-width: 300px; display: inline-block; margin: 5px">
+	<dt><img class="" src="/images/Spain_3.jpg" /></dt>
+	<dd>Witnessed Messi's hatrick at Camp Nou</dd>
+</dl>
+<dl class="wp-caption" style="max-width: 300px; display: inline-block; margin: 5px">
+	<dt><img class="" src="/images/Spain_6.jpg" /></dt>
+	<dd>Castle Montjuic, Barcelona</dd>
+</dl>
+<dl class="wp-caption" style="max-width: 250px; display: inline-block; margin: 5px">
+	<dt><img class="" src="/images/Spain_5.jpg" /></dt>
+	<dd>Bunkers Del Carmel, Barcelona</dd>
+</dl>
+
+<h2>In Norway</h2>
+
+<dl class="wp-caption" style="max-width: 300px; display: inline-block; margin: 5px">
+	<dt><img class="" src="/images/Norway_1.jpeg" /></dt>
+	<dd>Bergen</dd>
+</dl>
+<dl class="wp-caption" style="max-width: 300px; display: inline-block; margin: 5px">
+	<dt><img class="" src="/images/Norway_2.jpeg" /></dt>
+	<dd>Mount Ulriken, Bergen</dd>
+</dl>
+<dl class="wp-caption" style="max-width: 300px; display: inline-block; margin: 5px">
+	<dt><img class="" src="/images/Norway_3.jpeg" /></dt>
+	<dd>Mount Fløyen, Bergen</dd>
+</dl>
+
+<h2>In Poland</h2>
+
+<dl class="wp-caption" style="max-width: 170px; display: inline-block; margin: 5px">
+	<dt><img class="" src="/images/Poland_1.jpeg" /></dt>
+	<dd>Museum of the Second World War, Gdansk</dd>
+</dl>
+<dl class="wp-caption" style="max-width: 220px; display: inline-block; margin: 5px">
+	<dt><img class="" src="/images/Poland_2.jpg" /></dt>
+	<dd>Skiing in Zakopane</dd>
+</dl>
+<dl class="wp-caption" style="max-width: 220px; display: inline-block; margin: 5px">
+	<dt><img class="" src="/images/Poland_3.jpg" /></dt>
+	<dd>Witów-Ski, Zakopane</dd>
 </dl>
 
 <h2>In Belgium</h2>
@@ -119,6 +199,28 @@ Have a look at various places that I have visted in various countries.
 <dl class="wp-caption" style="max-width: 300px; display: inline-block; margin: 5px">
 	<dt><img class="" src="/images/Budapest_3.jpeg" /></dt>
 	<dd>Széchenyi Chain Bridge</dd>
+</dl>
+
+<h2>In Austria</h2>
+
+<dl class="wp-caption" style="max-width: 220px; display: inline-block; margin: 5px">
+	<dt><img class="" src="/images/Austria_1.jpeg" /></dt>
+	<dd>St. Stephen's Cathedral, Vienna</dd>
+</dl>
+<dl class="wp-caption" style="max-width: 220px; display: inline-block; margin: 5px">
+	<dt><img class="" src="/images/Austria_2.jpg" /></dt>
+	<dd>Christmas Market, Vienna</dd>
+</dl>
+
+<h2>In Portugal</h2>
+
+<dl class="wp-caption" style="max-width: 300px; display: inline-block; margin: 5px">
+	<dt><img class="" src="/images/Portugal_1.jpg" /></dt>
+	<dd>View from Luís I Bridge, Porto</dd>
+</dl>
+<dl class="wp-caption" style="max-width: 300px; display: inline-block; margin: 5px">
+	<dt><img class="" src="/images/Portugal_2.jpg" /></dt>
+	<dd>Porto</dd>
 </dl>
 
 <h2>In Czech Republic</h2>
