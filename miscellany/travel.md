@@ -4,7 +4,7 @@ title: Travel
 permalink: /miscellany/travel/
 ---
 
-I'm an enthusiastic traveller and like to get out of my comfort zone. Have a look at various places that I have visted in multiple countries. 
+I'm an enthusiastic traveller and like to get out of my comfort zone. Have a look at various places that I have visted around the world.
 
 
 <h2>In Paris</h2>
@@ -129,40 +129,6 @@ I'm an enthusiastic traveller and like to get out of my comfort zone. Have a loo
 	<dd>Witów-Ski, Zakopane</dd>
 </dl>
 
-<h2>In Belgium</h2>
-
-<!--
-	Images have aspect ration 800px x 500px
-!-->
-
-<dl class="wp-caption" style="max-width: 220px; display: inline-block; margin: 5px">
-	<dt><img class="" src="/images/Belgium_1.jpg" /></dt>
-	<dd>Belfry of Bruges, Belgium</dd>
-</dl>
-<dl class="wp-caption" style="max-width: 280px; display: inline-block; margin: 5px">
-	<dt><img class="" src="/images/Belgium_2.jpg" /></dt>
-	<dd>View from Belfry of Bruges</dd>
-</dl>
-<dl class="wp-caption" style="max-width: 220px; display: inline-block; margin: 5px">
-	<dt><img class="" src="/images/Belgium_3.jpg" /></dt>
-	<dd>Manneken Pis, Brussels</dd>
-</dl>
-
-<h2>In Netherlands</h2>
-
-<!--
-	Images have aspect ration 800px x 500px
-!-->
-
-<dl class="wp-caption" style="max-width: 300px; display: inline-block; margin: 5px">
-	<dt><img class="" src="/images/Amsterdam_1.jpg" /></dt>
-	<dd>Amsterdam, Netherlands</dd>
-</dl>
-<dl class="wp-caption" style="max-width: 250px; display: inline-block; margin: 5px">
-	<dt><img class="" src="/images/Amsterdam_2.jpg" /></dt>
-	<dd>Crooked Houses, Amsterdam</dd>
-</dl>
-
 <h2>In Germany</h2>
 
 <!--
@@ -201,6 +167,58 @@ I'm an enthusiastic traveller and like to get out of my comfort zone. Have a loo
 	<dd>Széchenyi Chain Bridge</dd>
 </dl>
 
+<h2>In Portugal</h2>
+
+<dl class="wp-caption" style="max-width: 300px; display: inline-block; margin: 5px">
+	<dt><img class="" src="/images/Portugal_1.jpg" /></dt>
+	<dd>View from Luís I Bridge, Porto</dd>
+</dl>
+
+<dl class="wp-caption" style="max-width: 300px; display: inline-block; margin: 5px">
+	<dt><img class="" src="/images/Portugal_3.jpeg" /></dt>
+	<dd>Luís I Bridge, Porto</dd>
+</dl>
+
+<dl class="wp-caption" style="max-width: 250px; display: inline-block; margin: 5px">
+	<dt><img class="" src="/images/Portugal_4.jpeg" /></dt>
+	<dd>Porto Cathedral</dd>
+</dl>
+
+<h2>In Belgium</h2>
+
+<!--
+	Images have aspect ration 800px x 500px
+!-->
+
+<dl class="wp-caption" style="max-width: 220px; display: inline-block; margin: 5px">
+	<dt><img class="" src="/images/Belgium_1.jpg" /></dt>
+	<dd>Belfry of Bruges, Belgium</dd>
+</dl>
+<dl class="wp-caption" style="max-width: 280px; display: inline-block; margin: 5px">
+	<dt><img class="" src="/images/Belgium_2.jpg" /></dt>
+	<dd>View from Belfry of Bruges</dd>
+</dl>
+<dl class="wp-caption" style="max-width: 220px; display: inline-block; margin: 5px">
+	<dt><img class="" src="/images/Belgium_3.jpg" /></dt>
+	<dd>Manneken Pis, Brussels</dd>
+</dl>
+
+<h2>In Netherlands</h2>
+
+<!--
+	Images have aspect ration 800px x 500px
+!-->
+
+<dl class="wp-caption" style="max-width: 300px; display: inline-block; margin: 5px">
+	<dt><img class="" src="/images/Amsterdam_1.jpg" /></dt>
+	<dd>Amsterdam, Netherlands</dd>
+</dl>
+<dl class="wp-caption" style="max-width: 250px; display: inline-block; margin: 5px">
+	<dt><img class="" src="/images/Amsterdam_2.jpg" /></dt>
+	<dd>Crooked Houses, Amsterdam</dd>
+</dl>
+
+
 <h2>In Austria</h2>
 
 <dl class="wp-caption" style="max-width: 220px; display: inline-block; margin: 5px">
@@ -210,17 +228,6 @@ I'm an enthusiastic traveller and like to get out of my comfort zone. Have a loo
 <dl class="wp-caption" style="max-width: 220px; display: inline-block; margin: 5px">
 	<dt><img class="" src="/images/Austria_2.jpg" /></dt>
 	<dd>Christmas Market, Vienna</dd>
-</dl>
-
-<h2>In Portugal</h2>
-
-<dl class="wp-caption" style="max-width: 300px; display: inline-block; margin: 5px">
-	<dt><img class="" src="/images/Portugal_1.jpg" /></dt>
-	<dd>View from Luís I Bridge, Porto</dd>
-</dl>
-<dl class="wp-caption" style="max-width: 300px; display: inline-block; margin: 5px">
-	<dt><img class="" src="/images/Portugal_2.jpg" /></dt>
-	<dd>Porto</dd>
 </dl>
 
 <h2>In Czech Republic</h2>
