@@ -9,10 +9,10 @@ title: Research
 <h2>Publications</h2>
 <ul>
 	<li>
-		<b>Towards a Unified Framework for Visual Compatibility Prediction</b><br>
+		<b><a href="http://openaccess.thecvf.com/content_WACV_2020/html/Singhal_Towards_a_Unified_Framework_for_Visual_Compatibility_Prediction_WACV_2020_paper.html">Towards a Unified Framework for Visual Compatibility Prediction</a></b><br>
 		<i>Anirudh Singhal, Ayush Chopra, Kumar Ayush, Utkarsh Patel, K. Balaji</i><br>
 		WACV, 2020<br>
-		<a href="http://openaccess.thecvf.com/content_WACV_2020/html/Singhal_Towards_a_Unified_Framework_for_Visual_Compatibility_Prediction_WACV_2020_paper.html"><div class="color-button">pdf</div></a>
+		<a href="Fashion.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
 </ul>
 
