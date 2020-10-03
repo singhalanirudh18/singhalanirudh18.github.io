@@ -26,14 +26,20 @@ title: Research
 <h2>Research Projects</h2>
 <ul>
 	<li>
+		<b>Bandits with Incomplete Control</b><br>
+		Oct'20-Present<br>
+		<i>Working with <a href="https://sites.google.com/site/nikhilkaram/">Prof. Nikhil Karamchandani</a> and <a href="https://www.ee.iitb.ac.in/~jayakrishnan.nair/">Prof. Jayakrishnan Nair</a> on a new Multi-Armed Bandit setting where we don't have freedom to pull every arm.</i><br>
+		<!-- <a href="Continuous_Mode.pdf"><div class="color-button">report</div></a> -->
+	</li><br>
+	<li>
 		<b>Adaptive Mode Estimation of Continuous Distribution</b><br>
-		Jan'20-Present<br>
+		Jan'20-Sep'20<br>
 		<i>Working with <a href="https://sites.google.com/site/nikhilkaram/">Prof. Nikhil Karamchandani</a> on using Multi-Armed Bandit Algorithms to estimate mode of a high-dimensional dataset</i><br>
 		<a href="Continuous_Mode.pdf"><div class="color-button">report</div></a>
 	</li><br>
 	<li>
 		<b>Reduced Feedback Techniques for Kerdock based MIMO-OFDM Precoders</b><br>
-		Jan'20-Present<br>
+		Jan'20-Jun'20<br>
 		<i>Working with <a href="https://www.ee.iitb.ac.in/~akumar/">Prof. Kumar Appaiah</a> on reducing the feedback requirements for <a href="https://ieeexplore.ieee.org/document/4813254">Kerdock based MIMO-OFDM precoders</a></i><br>
 		<a href="MIMO_Kerdock.pdf"><div class="color-button">report</div></a>
 	</li><br>
