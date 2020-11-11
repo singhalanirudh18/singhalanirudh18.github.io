@@ -4,7 +4,7 @@ permalink: /experience/
 title: Experience
 ---
 
-During my short professional journey, I got the opportunity to acquire diverse experience in the fields of research, product and teaching. I started my journey as a researcher by interning in Media and Data Science Research Lab, Adobe followed by various <a href="/research">research projects</a>. I had the opportunity to work closely with a growing startup <a href="https://okcredit.in/">OkCredit</a> as a summer intern which helped me get insights into entrepreneurship culture in India. During my time as a Teaching Assistant, I taught students from different disciplines.
+During my short professional journey, I got the opportunity to acquire diverse experience in research, product, and teaching. As a researcher, I started my journey by interning in Media and Data Science Research Lab, Adobe, followed by various <a href="/research">research projects</a>. I had the opportunity to work closely with a growing startup <a href="https://okcredit.in/">OkCredit</a> as a summer intern, which helped me get insights into India's entrepreneurship culture. During my time as a Teaching Assistant, I taught students from different disciplines.
 
 <h2>Work Experience</h2>
 <ul>
