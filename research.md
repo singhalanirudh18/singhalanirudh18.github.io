@@ -4,14 +4,20 @@ permalink: /research/
 title: Research
 ---
 
-<b>Research Interests</b> : Machine Learning, Computer Vision, Multi-Armed Bandits, Markov Decision Processes, Wireless Communication 
+<b>Research Interests</b> : Machine Learning, Reinforcement Learning, Statistical Machine Learning, Online Learning, Applied Probability, and Computer Vision
 
 <h2>Publications</h2>
 <ul>
 	<li>
+		<b><a href="https://arxiv.org/abs/2010.13491">Query Complexity of k-NN based Mode Estimation</a></b><br>
+		<i>Anirudh Singhal, Subham Pirojiwala, Nikhil Karamchandani</i><br>
+		Under review at Information Theory Workshop'20<br>
+		<a href="Fashion.pdf"><div class="color-button">pdf</div></a>
+	</li><br>
+	<li>
 		<b><a href="http://openaccess.thecvf.com/content_WACV_2020/html/Singhal_Towards_a_Unified_Framework_for_Visual_Compatibility_Prediction_WACV_2020_paper.html">Towards a Unified Framework for Visual Compatibility Prediction</a></b><br>
 		<i>Anirudh Singhal, Ayush Chopra, Kumar Ayush, Utkarsh Patel, K. Balaji</i><br>
-		WACV, 2020<br>
+		Winter Conference on Applications of Computer Vision'20<br>
 		<a href="Fashion.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
 </ul>
