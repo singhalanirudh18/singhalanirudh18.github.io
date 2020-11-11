@@ -4,16 +4,16 @@ general_email: singhalanirudh18@gmail.com
 academic_email: 16D070032@iitb.ac.in
 
 description: > # this means to ignore newlines until "baseurl:"
-  Final Year Dual Degree (B.Tech + M.Tech) student at the Department of Electrical Engineering, IIT Bombay. Passionate about research in Multiple Armed Bandits and Computer Vision.
+  Final Year Dual Degree (Bachelor and Master of Technology) student at the Department of Electrical Engineering, IIT Bombay. Passionate about research in Machine Learning, Reinforcement Learning, and Computer Vision.
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 
 url: "https://singhalanirudh18.github.io" # the base hostname & protocol for your site
 
 # twitter_username: jekyllrb
-github_username: singhalanirudh18
-linkedin_username: singhalanirudh18
-facebook_username: anirudh.singhal.5
+# github_username: singhalanirudh18
+# linkedin_username: singhalanirudh18
+# facebook_username: anirudh.singhal.5
 # feel free to add other links here; you will have to add the SVG icon in _layouts/footer.html
 
 # Build settings
