@@ -12,7 +12,7 @@ title: Research
 		<b><a href="https://arxiv.org/abs/2010.13491">Query Complexity of k-NN based Mode Estimation</a></b><br>
 		<i>Anirudh Singhal, Subham Pirojiwala, Nikhil Karamchandani</i><br>
 		Under review at Information Theory Workshop'20<br>
-		<a href="Fashion.pdf"><div class="color-button">pdf</div></a>
+		<a href="https://arxiv.org/pdf/2010.13491.pdf"><div class="color-button">preprint</div></a>
 	</li><br>
 	<li>
 		<b><a href="http://openaccess.thecvf.com/content_WACV_2020/html/Singhal_Towards_a_Unified_Framework_for_Visual_Compatibility_Prediction_WACV_2020_paper.html">Towards a Unified Framework for Visual Compatibility Prediction</a></b><br>
