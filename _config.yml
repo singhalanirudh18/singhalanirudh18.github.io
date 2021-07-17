@@ -1,7 +1,8 @@
 # Site settings
 title: Anirudh Singhal
 general_email: singhalanirudh18@gmail.com
-academic_email: 16D070032@iitb.ac.in
+# academic_email: 16D070032@iitb.ac.in
+academic_email: anirudh.singhal@morganstanley.com
 
 description: > # this means to ignore newlines until "baseurl:"
   Final Year Dual Degree (Bachelor and Master of Technology) student at the Department of Electrical Engineering, IIT Bombay. Passionate about research in Machine Learning, Reinforcement Learning, and Computer Vision.
@@ -12,8 +13,8 @@ url: "https://singhalanirudh18.github.io" # the base hostname & protocol for you
 
 # twitter_username: jekyllrb
 # github_username: singhalanirudh18
-# linkedin_username: singhalanirudh18
-# facebook_username: anirudh.singhal.5
+linkedin_username: singhalanirudh18
+facebook_username: anirudh.singhal.5
 # feel free to add other links here; you will have to add the SVG icon in _layouts/footer.html
 
 # Build settings
